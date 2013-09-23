@@ -1,0 +1,209 @@
+------------------------------
+	book database
+  2012-11-10 20:32:40.000
+------------------------------
+
+searched word: asd
+Found the word.
+
+Enter Book Number: 2
+
+Author's first name: 
+
+Author's last name: asd
+
+Title of the book: 
+
+Publisher name: 
+
+Chosed Topic: Software
+
+price: 34
+
+reading state of the book: unread
+------------------------------
+	book database
+  2012-11-10 20:32:40.000
+------------------------------
+
+searched word: asd
+Found the word.
+
+Enter Book Number: 2
+
+Author's first name: 
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: 
+
+Chosed Topic: 
+
+price: 56
+
+reading state of the book: unread
+
+Total 2 entries found.
+------------------------------
+	book database
+  2012-11-10 20:32:40.000
+------------------------------
+
+searched word: asd
+Found the word.
+
+Enter Book Number: 2
+
+Author's first name: 
+
+Author's last name: asd
+
+Title of the book: 
+
+Publisher name: 
+
+Chosed Topic: Software
+
+price: 34
+
+reading state of the book: unread
+------------------------------
+	book database
+  2012-11-10 20:32:40.000
+------------------------------
+
+searched word: asd
+Found the word.
+
+Enter Book Number: 2
+
+Author's first name: 
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: 
+
+Chosed Topic: 
+
+price: 56
+
+reading state of the book: unread
+
+Total 2 entries found.
+
+Total 0 entries found.
+------------------------------
+	book database
+  2012-11-10 20:55:32.000
+------------------------------
+
+searched word: asd
+#############################
+
+Book Number: 1
+
+Author's first name: asd
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: asd
+
+Chosed Topic: Physics
+
+price: 23
+
+reading state of the book: read
+
+#############################
+
+Book Number: 2
+
+Author's first name: asd
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: asd
+
+Chosed Topic: Electrical_engineering
+
+price: 34
+
+reading state of the book: unread
+
+Total 2 entries found.
+------------------------------
+	book database
+  2012-11-12 13:44:41.000
+------------------------------
+
+searched word: asd
+#############################
+
+Book Number: 1
+
+Author's first name: asd
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: asd
+
+Topic: Computer_Science
+
+price: 23
+
+reading state of the book: read
+
+#############################
+
+Book Number: 2
+
+Author's first name: asd
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: asd
+
+Topic: Computer_Science
+
+price: 34
+
+reading state of the book: read
+
+Total 2 entries found.
+------------------------------
+	book database
+  2012-12-09 21:20:37.000
+------------------------------
+
+searched word: asd
+#############################
+
+Book Number: 1
+
+Author's first name: asd
+
+Author's last name: asd
+
+Title of the book: asd
+
+Publisher name: 
+
+Topic: Physics
+
+price: 34
+
+reading state of the book: read
+
+Total 1 entries found.
